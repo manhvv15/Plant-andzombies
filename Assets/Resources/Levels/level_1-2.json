@@ -1,0 +1,99 @@
+{
+    "plantLimit": 4,
+    "startingSun": 75,
+    "noSunDrops": false,
+    "background": "Background/Day",
+    "onComplete": {
+        "levelUnlockId": 2
+    },
+    "waves": [
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 5,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}

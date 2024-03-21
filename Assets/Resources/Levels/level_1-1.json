@@ -1,0 +1,77 @@
+{
+    "plantLimit": 4,
+    "startingSun": 100,
+    "noSunDrops": false,
+    "background": "Background/Day",
+    "onComplete": {
+        "levelUnlockId": 1
+    },
+    "waves": [
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}

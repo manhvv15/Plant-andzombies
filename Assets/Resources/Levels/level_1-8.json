@@ -1,0 +1,231 @@
+{
+    "plantLimit": 6,
+    "startingSun": 50,
+    "noSunDrops": false,
+    "background": "Background/Day",
+    "onComplete": {
+        "levelUnlockId": 8
+    },
+    "waves": [
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 5,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 5,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 6,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 7,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 7,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 8,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 9,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 5,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}

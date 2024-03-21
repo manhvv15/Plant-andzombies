@@ -1,0 +1,144 @@
+{
+    "waves": [
+        {
+            "is_large_wave": false,
+            "zombies": [
+                {
+                    "type": "door",
+                    "amount": 1,
+                    "row": "random"
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 12,
+                    "row": "random"
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": false,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "is_large_wave": true,
+            "spread_evenly": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 5,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}

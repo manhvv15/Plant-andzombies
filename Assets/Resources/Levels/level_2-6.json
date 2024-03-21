@@ -1,0 +1,279 @@
+{
+    "plantLimit": 6,
+    "startingSun": 50,
+    "noSunDrops": true,
+    "background": "Background/Night",
+    "onComplete": {
+        "levelUnlockId": 16
+    },
+    "waves": [
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "sunhat",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "sunhat",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "sunhat",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "sunhat",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 3,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "sunhat",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "door",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "newspaper",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 4,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "door",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "newspaper",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 4,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "door",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 4,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "sunhat",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 6,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "door",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 6,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "buckethead",
+                    "amount": 1,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        },
+        {
+            "isLargeWave": true,
+            "zombies": [
+                {
+                    "type": "normal",
+                    "amount": 8,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "door",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "conehead",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                },
+                {
+                    "type": "newspaper",
+                    "amount": 2,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}

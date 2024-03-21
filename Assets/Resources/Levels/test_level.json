@@ -1,0 +1,20 @@
+{
+    "plantLimit": 6,
+    "startingSun": 1250,
+    "noSunDrops": false,
+    "background": "Background/Day",
+    "removeMowers": true,
+    "waves": [
+        {
+            "isLargeWave": false,
+            "zombies": [
+                {
+                    "type": "imp",
+                    "amount": 10,
+                    "row": "random",
+                    "spread": true
+                }
+            ]
+        }
+    ]
+}
